@@ -1,0 +1,4 @@
+C:\Users\sepehr.azadkhanegha\source\repos\Emoman\Emoman\obj\Debug\netcoreapp3.1\Emoman.csprojAssemblyReference.cache
+C:\Users\sepehr.azadkhanegha\source\repos\Emoman\Emoman\obj\Debug\netcoreapp3.1\Emoman.csproj.CoreCompileInputs.cache
+C:\Users\sepehr.azadkhanegha\source\repos\Emoman\Emoman\obj\Debug\netcoreapp3.1\Emoman.AssemblyInfoInputs.cache
+C:\Users\sepehr.azadkhanegha\source\repos\Emoman\Emoman\obj\Debug\netcoreapp3.1\Emoman.AssemblyInfo.cs
